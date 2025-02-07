@@ -1,4 +1,6 @@
 public class Ekud {
+    private String commandType;
+
     public static void main(String[] args) {
         System.out.println("Hello!");
     }
